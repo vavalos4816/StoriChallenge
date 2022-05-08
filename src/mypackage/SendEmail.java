@@ -25,7 +25,7 @@ public class SendEmail {
 
         protected PasswordAuthentication getPasswordAuthentication() {
 
-            return new PasswordAuthentication(from, "'ytaf%iLxxy0|x~u^5?S&zp@rc2>Gvn-TH!AK)4W{jA>`\\BcEHmEx21Yn&E4CYI6");
+            return new PasswordAuthentication(from, "'youremailpassword");
 
         }
 
